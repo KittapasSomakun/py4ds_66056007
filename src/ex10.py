@@ -39,4 +39,3 @@ def find_and_replace(text, old_str, new_str):
             result += text[i]
             i += 1
     return result
-    pass

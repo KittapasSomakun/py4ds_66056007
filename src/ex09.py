@@ -20,4 +20,3 @@ def get_chess_square_color(col, row):
     """
     # Fix : complete this
     return 'White' if (col+row) % 2 == 0 else 'Black'
-    pass

@@ -28,4 +28,3 @@ def mode(num_list):
             element_having_max_freq = num_list[i]
 
     return element_having_max_freq
-    pass

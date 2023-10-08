@@ -17,7 +17,6 @@ def write_to_file(filename, message):
     # Fix : complete this
     f = open(filename, 'w')
     f.write(message)
-    pass
 
 
 def read_from_file(filename):
@@ -33,7 +32,6 @@ def read_from_file(filename):
     # Fix : complete this
     f = open(filename, 'r')
     return f.read()
-    pass
 
 
 def append_to_file(filename, message):
@@ -50,4 +48,3 @@ def append_to_file(filename, message):
     # Fix : complete this
     f = open(filename, 'a')
     f.write(message)
-    pass

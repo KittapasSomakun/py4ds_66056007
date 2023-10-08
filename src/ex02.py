@@ -15,7 +15,6 @@ def convert_to_fahrenheit(celsius):
     """
     # Fix : complete this
     return (9/5) * celsius + 32
-    pass
 
 
 def convert_to_celsius(fahrenheit):
@@ -30,4 +29,3 @@ def convert_to_celsius(fahrenheit):
     """
     # Fix : complete this
     return (fahrenheit - 32) * (5/9)
-    pass

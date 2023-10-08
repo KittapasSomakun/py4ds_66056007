@@ -16,7 +16,6 @@ def area(length, width):
     """
     # Fix : complete this
     return length * width
-    pass
 
 
 def perimeter(length, width):
@@ -32,7 +31,6 @@ def perimeter(length, width):
     """
     # Fix : complete this
     return (length + width) * 2
-    pass
 
 
 def volume(length, width, height):
@@ -49,7 +47,6 @@ def volume(length, width, height):
     """
     # Fix : complete this
     return length * width * height
-    pass
 
 
 def surface_area(length, width, height):
@@ -66,4 +63,3 @@ def surface_area(length, width, height):
     """
     # Fix : complete this
     return 2 * ((length * width) + (width * height) + (length * height))
-    pass

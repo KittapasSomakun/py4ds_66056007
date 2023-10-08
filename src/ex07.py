@@ -18,4 +18,3 @@ def print_ASCII_table(start_char, end_char):
     # Fix : complete this
     for i in range(start_char, end_char+1):
         print(chr(i))
-    pass

@@ -20,4 +20,3 @@ def get_smallest(num_list):
         if i < my_min:
             my_min = i
     return my_min
-    pass

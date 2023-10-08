@@ -24,4 +24,3 @@ def median(num_list):
     else:
         index = input_len // 2
         return input_sort[index]
-    pass

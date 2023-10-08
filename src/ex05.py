@@ -25,4 +25,3 @@ def fizz_buzz(num):
         return 'Buzz'
     else:
         return num
-    pass

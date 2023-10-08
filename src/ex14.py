@@ -19,4 +19,3 @@ def average(num_list: list) -> float:
         count = count + i
 
     return count / len(num_list)
-    pass

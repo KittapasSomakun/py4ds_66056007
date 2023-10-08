@@ -29,4 +29,3 @@ def ordinal_suffix(num):
         return str(num)+'rd'
     else:
         return str(num)+'th'
-    pass

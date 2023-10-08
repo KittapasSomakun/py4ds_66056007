@@ -15,7 +15,6 @@ def is_odd(num):
     """
     # Fix : complete this
     return num % 2 == 1
-    pass
 
 
 def is_even(num):
@@ -30,4 +29,3 @@ def is_even(num):
     """
     # Fix : complete this
     return num % 2 == 0
-    pass

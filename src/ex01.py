@@ -9,7 +9,6 @@ def greeting():
     """
     # Fix : complete this
     print('สวัสดีชาวลาดกระบัง')
-    pass
 
 
 def know_my_name():
@@ -24,7 +23,6 @@ def know_my_name():
     """
     # Fix : complete this
     return input('')
-    pass
 
 
 def say_hi(name=None):
@@ -36,4 +34,3 @@ def say_hi(name=None):
     """
     # Fix : complete this
     print('สวัสดีคุณ'+name)
-    pass

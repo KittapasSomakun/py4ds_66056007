@@ -18,4 +18,3 @@ def roll_dice(num_of_dice):
     for i in range(num_of_dice):
         total += random.randint(1, 6)
     return total
-    pass

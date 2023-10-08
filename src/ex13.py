@@ -18,7 +18,6 @@ def calc_sum(num_list):
         count = count + i
 
     return count
-    pass
 
 
 def calc_prod(num_list):
@@ -36,4 +35,3 @@ def calc_prod(num_list):
         count = count * i
 
     return count
-    pass

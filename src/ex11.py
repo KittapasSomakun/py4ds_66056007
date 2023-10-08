@@ -34,4 +34,3 @@ def get_hr_min_sec(tsec):
     if my_hour > 0:
         result = str(my_hour) + 'h ' + result
     return result.strip()
-    pass
